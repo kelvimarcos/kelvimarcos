@@ -60,7 +60,7 @@ Atualmente estudo e desenvolvo projetos com:
 <img align="left" 
     alt="Photoshop" 
     title="Photoshop"
-    width="34px" 
+    width="30px" 
     style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />      
 
 <br/>        
