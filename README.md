@@ -15,7 +15,7 @@ Atualmente estudo e desenvolvo projetos com:
 
 ---
 
-### 🤖 Tecnologias
+### 🤖 Tecnologias e Linguagens
 
 <img 
     align="left" 
