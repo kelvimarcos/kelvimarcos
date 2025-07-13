@@ -1,19 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Kelvison%20Marcos%20Â%20Lima&reversal=true&textBg=false&fontSize=41&fontColor=FFF&fontAlign=50&fontAlignY=40&animation=scaleIn">
+# 👩🏻‍💻 Kelvison Marcos
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00fbf&size=35&center=true&vcenter=true&width=1000&lines=Welcome+to+my+Git+repository;Bem-vindo+ao+meu+repositório+git.)](https://git.io/typing-svg)
+**`Desenvolvedor Front-end`**
+
+Atuo na transição profissional do design gráfico para o desenvolvimento front-end, unindo visão estética e foco na experiência do usuário à construção de interfaces web modernas.
+
+Minha base sólida em ferramentas como Figma, Illustrator e Photoshop fortalece minha capacidade de transformar layouts em interfaces responsivas e bem estruturadas, com atenção aos detalhes visuais e usabilidade.
+
+Atualmente estudo e desenvolvo projetos com:  
+**HTML | CSS | JavaScript | Git & GitHub | UI/UX Design**
+
+Acompanhe meu progresso aqui no GitHub e no [LinkedIn](https://www.linkedin.com/in/kelvimarcos/).
 
 
+    
+<br/>
 ---
 
 ### 🤖 Tecnologias
 
-
-  <img align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-    
 <img 
     align="left" 
     alt="HTML"
@@ -39,13 +43,38 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-               
-<br/>
-<br/>
 
+  <img align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+
+<img align="left" 
+    alt="Illustrator" 
+    title="Illustrator"
+    width="30px" 
+    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+
+
+
+           
+          
+
+<img align="left" 
+    alt="Photoshop" 
+    title="Photoshop"
+    width="34px" 
+    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+
+
+
+                 
+<br/>
+<br/>
 
 ---
-
 ### 📊 Estatísticas
 
 <p>
@@ -56,8 +85,6 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=kelvimarcos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<br/>
 
 <img 
       align="left" 
