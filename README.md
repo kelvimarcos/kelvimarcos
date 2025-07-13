@@ -7,6 +7,13 @@
 
 ### 🤖 Tecnologias
 
+
+  <img align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    
 <img 
     align="left" 
     alt="HTML"
@@ -32,34 +39,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
-  <img align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-
-
-<img align="left" 
-    alt="Illustrator" 
-    title="Illustrator"
-    width="30px" 
-    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
-
-
-
-           
-          
-
-<img align="left" 
-    alt="Photoshop" 
-    title="Photoshop"
-    width="34px" 
-    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-
-
-
-                 
+               
 <br/>
 <br/>
 
