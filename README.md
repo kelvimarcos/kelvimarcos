@@ -14,26 +14,21 @@ Atualmente estudo e desenvolvo projetos com:
 <br/> 
 
 
----
-### 🔗 Links Úteis
+<h2>🔗 Links Úteis</h2>
 
-<a href="https://www.linkedin.com/in/kelvimarcos/" target="_blank">
-  <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/kelvisonmarcos/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/seu_usuario/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.behance.net/seu_usuario" target="_blank">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
 </a>
 <a href="mailto:kelvison.marcos10@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://www.instagram.com/kelvimarcos" target="_blank">
-  <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.behance.net/kelvisondesigner" target="_blank">
-  <img src="https://img.shields.io/badge/-BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-</a>
-       
-<br/>
-<br/>
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
