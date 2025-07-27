@@ -1,11 +1,8 @@
 <h3 align="left"> <img src="https://raw.githubusercontent.com/kelvimarcos/kelvimarcos/main/logo2.svg" alt="Logo de Kelvison Marcos" style="width: 300px; height: auto; vertical-align: middle; margin-right: 8px; margin-left: 10px;" />
 </h3>
 
-       
 <br/>
 <br/>      
-
-**`Desenvolvedor Front-end`**
 
 Atuo na transição profissional do design gráfico para o desenvolvimento front-end, unindo visão estética e foco na experiência do usuário à construção de interfaces web modernas.
 
