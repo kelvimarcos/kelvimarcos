@@ -17,7 +17,7 @@ Atualmente estudo e desenvolvo projetos com:
 ---
 ### 🔗 Links Úteis
 
-<a href="https://linkedin.com/in/seu-usuario" target="_blank">
+<a href="https://www.linkedin.com/in/kelvimarcos/" target="_blank">
   <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:kelvison.marcos10@gmail.com" target="_blank">
