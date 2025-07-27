@@ -7,7 +7,7 @@ Atuo na transição profissional do design gráfico para o desenvolvimento front
 Minha base sólida em ferramentas como Figma, Illustrator e Photoshop fortalece minha capacidade de transformar layouts em interfaces responsivas e bem estruturadas, com atenção aos detalhes visuais e usabilidade.
 
 Atualmente estudo e desenvolvo projetos com:  
-**HTML | CSS | JavaScript | Git & GitHub | UI/UX Design**
+**HTML | CSS | JavaScript | UI/UX Design | Git & GitHub**
 
 📍Acompanhe meu progresso aqui no [LinkedIn](https://www.linkedin.com/in/kelvimarcos/).
 
