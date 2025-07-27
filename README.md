@@ -9,7 +9,7 @@ Minha base sólida em ferramentas como Figma, Illustrator e Photoshop fortalece 
 Atualmente estudo e desenvolvo projetos com:  
 **HTML | CSS | JavaScript | Git & GitHub | UI/UX Design**
 
-📍Acompanhe meu progresso aqui no GitHub e no [LinkedIn](https://www.linkedin.com/in/kelvimarcos/).
+📍Acompanhe meu progresso aqui no [LinkedIn](https://www.linkedin.com/in/kelvimarcos/).
 
 <br/> 
 
@@ -34,7 +34,7 @@ Atualmente estudo e desenvolvo projetos com:
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Ferramentas
 
 <img 
     align="left" 
