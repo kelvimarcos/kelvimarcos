@@ -79,8 +79,16 @@ Atualmente estudo e desenvolvo projetos com:
 <img align="left" 
     alt="Photoshop" 
     title="Photoshop"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />      
+
+<img align="left" 
+    alt="Blender" 
+    title="Blender"
+    width="34px" 
+    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />  
+
+                
 
 <br/>        
 <br/>
