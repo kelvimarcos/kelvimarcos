@@ -19,7 +19,7 @@ Atualmente estudo e desenvolvo projetos com:
 <a href="https://www.linkedin.com/in/kelvimarcos/" target="_blank">
   <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="[mailto:kelvison.marcos10@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=kelvison.marcos10@gmail.com)" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kelvison.marcos10@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/kelvimarcos" target="_blank">
