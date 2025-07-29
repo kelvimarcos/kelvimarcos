@@ -4,7 +4,7 @@
 
 Atuo na transição profissional do design gráfico para o desenvolvimento front-end, unindo visão estética e foco na experiência do usuário à construção de interfaces web modernas.
 
-Minha base sólida em ferramentas como Figma, Illustrator e Photoshop fortalece minha capacidade de transformar layouts em interfaces responsivas e bem estruturadas, com atenção aos detalhes visuais e usabilidade.
+Minha base sólida em ferramentas como Figma, Illustrator e Photoshop fortalece minha capacidade de transformar layouts em códigos responsivos e bem estruturados, com atenção aos detalhes visuais e usabilidade.
 
 
 📍Acompanhe meu progresso aqui no [LinkedIn](https://www.linkedin.com/in/kelvimarcos/).
