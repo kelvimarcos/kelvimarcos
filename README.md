@@ -14,14 +14,15 @@ Minha base sólida em ferramentas como Figma, Illustrator e Photoshop fortalece 
 ---
 ### 🔗 Links Úteis
 
-<a href="https://www.linkedin.com/in/kelvimarcos/" target="_blank">
-  <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kelvison.marcos10@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/kelvimarcos" target="_blank">
   <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/kelvimarcos/" target="_blank">
+  <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.behance.net/kelvisondesigner" target="_blank">
   <img src="https://img.shields.io/badge/-BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
