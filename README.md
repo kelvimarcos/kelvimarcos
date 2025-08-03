@@ -1,6 +1,4 @@
-<h3 align="left"> <img src="https://raw.githubusercontent.com/kelvimarcos/kelvimarcos/main/logo.svg" alt="Logo de Kelvison Marcos" style="width: 300px; height: auto; vertical-align: middle; margin-right: 8px; margin-left: 10px;" />
-Kelvison Marcos
-  
+<h3 align="left"> <img src="https://raw.githubusercontent.com/kelvimarcos/kelvimarcos/main/logo.svg" alt="Logo de Kelvison Marcos" style="width: 250px; height: auto; vertical-align: middle; margin-right: 8px; margin-left: 10px;" />
 </h3>
 
        
