@@ -83,7 +83,7 @@ Minha base sólida em ferramentas como Figma, Illustrator e Photoshop fortalece 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvimarcos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+</p>
 ---
 ### 🤖Ferramentas
 
@@ -125,4 +125,4 @@ Minha base sólida em ferramentas como Figma, Illustrator e Photoshop fortalece 
 
 
 
-</p>
+
