@@ -1,28 +1,37 @@
-<h3 align="left"> <img src="https://raw.githubusercontent.com/kelvimarcos/kelvimarcos/main/logo.svg" alt="Logo de Kelvison Marcos" style="width: 300px; height: auto; vertical-align: middle; margin-right: 8px; margin-left: 10px;" />
+<h3 align="left"> <img src="https://raw.githubusercontent.com/kelvimarcos/kelvimarcos/main/logo.svg" alt="Logo de Kelvison Marcos" style="width: 30px; height: auto; vertical-align: middle; margin-right: 8px; margin-left: 10px;" />
+Kelvison Marcos
+  
 </h3>
-<br/> 
+
+       
+<br/>
+<br/>       
+
+
+**`Desenvolvedor Front-end`**
 
 Atuo na transição profissional do design gráfico para o desenvolvimento front-end, unindo visão estética e foco na experiência do usuário à construção de interfaces web modernas.
 
-Minha base sólida em ferramentas como Figma, Illustrator e Photoshop fortalece minha capacidade de transformar layouts em códigos responsivos e bem estruturados, com atenção aos detalhes visuais e usabilidade.
+Minha base sólida em ferramentas como Figma, Illustrator e Photoshop fortalece minha capacidade de transformar layouts em interfaces responsivas e bem estruturadas, com atenção aos detalhes visuais e usabilidade.
 
+Atualmente estudo e desenvolvo projetos com:  
+**HTML | CSS | JavaScript | Git & GitHub | UI/UX Design**
 
-📍Acompanhe meu progresso aqui no [LinkedIn](https://www.linkedin.com/in/kelvimarcos/).
+📍Acompanhe meu progresso aqui no GitHub e no [LinkedIn](https://www.linkedin.com/in/kelvimarcos/).
 
 <br/> 
 
 ---
 ### 🔗 Links Úteis
 
-
+<a href="https://www.linkedin.com/in/kelvimarcos/" target="_blank">
+  <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kelvison.marcos10@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/kelvimarcos" target="_blank">
   <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/kelvimarcos/" target="_blank">
-  <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.behance.net/kelvisondesigner" target="_blank">
   <img src="https://img.shields.io/badge/-BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
@@ -61,16 +70,14 @@ Minha base sólida em ferramentas como Figma, Illustrator e Photoshop fortalece 
 />
 
 
-<br/>        
-<br/>
+<br/> 
+<br/> 
 <br/>
 
 ---
 ### 📊 Estatísticas
 
-<p>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -78,15 +85,16 @@ Minha base sólida em ferramentas como Figma, Illustrator e Photoshop fortalece 
   />
 
 <img 
-      align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="222" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvimarcos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
----
-### 🤖Ferramentas
 
+<br/>
+
+---
+
+### 🛠️ Ferramentas
 
   <img align="left" 
     alt="Figma" 
@@ -99,8 +107,13 @@ Minha base sólida em ferramentas como Figma, Illustrator e Photoshop fortalece 
     alt="Illustrator" 
     title="Illustrator"
     width="30px" 
-    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
-      
+    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />          
+
+<img align="left" 
+    alt="Illustrator" 
+    title="Illustrator"
+    width="30px" 
+    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
 
 <img align="left" 
     alt="Photoshop" 
@@ -112,17 +125,4 @@ Minha base sólida em ferramentas como Figma, Illustrator e Photoshop fortalece 
     alt="Blender" 
     title="Blender"
     width="34px" 
-    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />  
-
-                
-
-
-
-
-
-
-
-
-
-
-
+    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
