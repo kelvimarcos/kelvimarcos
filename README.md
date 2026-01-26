@@ -75,7 +75,14 @@ Atualmente estudo e desenvolvo projetos com:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
-
+<img 
+    align="left" 
+    alt="Github" 
+    title="Gitthub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
 
 
 <br/> 
