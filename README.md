@@ -129,7 +129,7 @@ Atualmente estudo e desenvolvo projetos com:
     alt="Wordpress" 
     title="Wordpress"
     width="34px" 
-    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+    style="padding-right: 10px; color: #fff;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
 
 <img align="left" 
     alt="Notion" 
