@@ -124,3 +124,21 @@ Atualmente estudo e desenvolvo projetos com:
     title="Blender"
     width="34px" 
     style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+
+<img align="left" 
+    alt="Wordpress" 
+    title="Wordpress"
+    width="34px" 
+    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+
+<img align="left" 
+    alt="Notion" 
+    title="Notion"
+    width="34px" 
+    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+
+          
+    
+
+
+    
