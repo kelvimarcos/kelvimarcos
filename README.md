@@ -74,15 +74,6 @@ Atualmente estudo e desenvolvo projetos com:
     title="Gitthub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Github" 
-    title="Gitthub"
-    width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 
@@ -143,12 +134,6 @@ Atualmente estudo e desenvolvo projetos com:
     title="Blender"
     width="34px" 
     style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
-
-<img align="left" 
-    alt="Wordpress" 
-    title="Wordpress"
-    width="34px" 
-    style="padding-right: 10px; color: #FFF;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
 
 <img align="left" 
     alt="Notion" 
