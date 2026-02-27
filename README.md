@@ -163,11 +163,13 @@ Atualmente estudo e desenvolvo projetos com:
 <a href="" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-D14836?style=for-the-badge&logo=WhatsApp&logoColor=WhatsApp" />
 </a>
+
 <a href="https://wa.me/5582981222429" target="_blank" class="btn-whatsapp">
   Falar no WhatsApp
 </a>
 
 <style>
+  
 .btn-whatsapp {
   background-color: #25D366;
   color: white;
