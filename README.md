@@ -77,7 +77,7 @@ Atualmente estudo e desenvolvo projetos com:
     title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)" 
 />
           
 <br/> 
