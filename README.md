@@ -1,4 +1,4 @@
-![Capa do Projeto](https://github.com/kelvimarcos/kelvimarcos/blob/main/assets/capasvg.svg?raw=true)
+![Capa do Projeto](https://github.com/kelvimarcos/kelvimarcos/blob/main/hero.svg?raw=true)
 
        
 <br/>
