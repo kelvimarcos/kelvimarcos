@@ -160,9 +160,5 @@ Atualmente estudo e desenvolvo projetos com:
   <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-D14836?style=for-the-badge&logo=WhatsApp&logoColor=WhatsApp" />
-</a>
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5582981222429)
     
