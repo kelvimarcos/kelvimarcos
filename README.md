@@ -1,6 +1,6 @@
 ![Capa do Projeto](https://github.com/kelvimarcos/kelvimarcos/blob/main/hero.svg?raw=true)
   
-<br/> 
+<br/>
 
 Atuo na transição profissional do design gráfico para o desenvolvimento front-end, unindo visão estética e foco na experiência do usuário à construção de interfaces web modernas.
 
