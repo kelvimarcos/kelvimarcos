@@ -165,3 +165,15 @@ Atualmente estudo e desenvolvo projetos com:
   <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+
+---
+### 🧮 Projeto Extra: Calculadora de Precificação para Designer Gráfico
+
+Criei uma calculadora moderna para estimar propostas de design com base em serviço, complexidade, prazo, horas, revisões, custos fixos, impostos e margem de lucro.
+
+**Arquivos do projeto:**
+- `index.html`
+- `styles.css`
+- `script.js`
+
+Para abrir, basta executar o `index.html` no navegador.
