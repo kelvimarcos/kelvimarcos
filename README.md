@@ -16,6 +16,9 @@ Atualmente estudo e desenvolvo projetos com:
 ---
 ### 🔗 Links Úteis
 
+<a href="https://wa.me/5582981222429" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/kelvimarcos/" target="_blank">
   <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -161,7 +164,3 @@ Atualmente estudo e desenvolvo projetos com:
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kelvison.marcos10@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/kelvimarcos/" target="_blank">
-  <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
